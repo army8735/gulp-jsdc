@@ -1,0 +1,52 @@
+{
+  "name": "gulp-jsdc",
+  "version": "0.0.1",
+  "description": "",
+  "maintainers": [
+    {
+      "name": "army8735",
+      "email": "army8735@qq.com"
+    }
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "config": {
+    "blanket": {
+      "pattern": [
+        "gulp-jsdc/index.js"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/army8735/gulp-jsdc.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "es6 to es5"
+  ],
+  "author": "army8735",
+  "license": "MIT",
+  "dependencies": {
+    "jsdc": "^0.3.4",
+    "through2": "^0.4.2",
+    "gulp-util": "~2.2.14"
+  },
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "event-stream": "^3.1.0",
+    "blanket": "^1.1.6",
+    "coveralls": "^2.10.0",
+    "expect.js": "^0.3.1",
+    "mocha": "~1.18.2",
+    "mocha-lcov-reporter": "0.0.1",
+    "vinyl": "^0.2.3"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "readmeFilename": "README.md"
+}
