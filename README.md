@@ -1,6 +1,7 @@
 # gulp-jsdc
 
-> compiler es6 to es5 by jsdc
+### compiler es6 to es5 by jsdc
+
 > https://github.com/army8735/jsdc
 
 [![NPM version](https://badge.fury.io/js/gulp-jsdc.png)](https://npmjs.org/package/gulp-jsdc)
