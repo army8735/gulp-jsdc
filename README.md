@@ -32,4 +32,4 @@ gulp.task('jsdc', function() {
     .pipe(gulp.dest('dist'))
 });
 ```
-> It will wrap `define` for CommonJS module
+> It will wrap `define` for CommonJS module when config `define: true`
