@@ -30,7 +30,7 @@
   "author": "army8735",
   "license": "MIT",
   "dependencies": {
-    "jsdc": ">=0.4.1",
+    "jsdc": "^=0.4.2",
     "through2": "^0.4.2",
     "gulp-util": "~2.2.14"
   },
