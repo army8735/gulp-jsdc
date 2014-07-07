@@ -1,6 +1,7 @@
-# gulp-jsdc
+gulp-jsdc
+====
 
-### compiler es6 to es5 by jsdc
+compiler es6 to es5 by jsdc
 
 https://github.com/army8735/jsdc
 

@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsdc",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "maintainers": [
     {
@@ -25,12 +25,14 @@
   "keywords": [
     "gulp",
     "gulpplugin",
+    "jsdc",
+    "ecmascript6",
     "es6 to es5"
   ],
   "author": "army8735",
   "license": "MIT",
   "dependencies": {
-    "jsdc": "^0.4.3",
+    "jsdc": "^0.4.4",
     "through2": "^0.4.2",
     "gulp-util": "~2.2.14"
   },
