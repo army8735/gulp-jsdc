@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsdc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "",
   "maintainers": [
     {
@@ -32,7 +32,7 @@
   "author": "army8735",
   "license": "MIT",
   "dependencies": {
-    "jsdc": "^0.4.5",
+    "jsdc": "^0.4.6",
     "through2": "^0.4.2",
     "gulp-util": "~2.2.14"
   },
